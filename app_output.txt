@@ -1,0 +1,11 @@
+Tom has a grade of: 89
+Joe has a grade of: 14
+Laura has a grade of: 35
+Mike has a grade of: 95
+Chris has a grade of: 36
+Kim has a grade of: 85
+Ann has a grade of: 52
+Mia has a grade of: 44
+Neo has a grade of: 55
+Lin has a grade of: 100
+The average grade of the students is 60.5
