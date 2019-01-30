@@ -1,4 +1,4 @@
-print("Hello World")    #System.out.println("Hello World");
+print("Hello World") # System.out.println("Hello World");
 
 # USER INPUT
 myname = input("What is your name: ")
@@ -8,7 +8,7 @@ print("Hello %s, again %s" % (myname, myname))
 # print(f"[string text]{var}") -> formats {var}
 print(f"Hello {myname}!")
 
-#   FUNC: type(var) -> returns what type of variable var is
+# FUNC: type(var) -> returns what type of variable var is
 print(f"The type of myname: \"{myname}\" is {type(myname)}")
 
 myname = None
@@ -20,7 +20,7 @@ str = "hello"
 bool = True
 none = None
 
-#   variable types examined using type(var) and printing of formatted string
+# variable types examined using type(var) and printing of formatted string
 print(f"{dec} \t {type(dec)}")
 print(f"{float} \t {type(float)}")
 print(f"{str} \t {type(str)}")
@@ -82,8 +82,6 @@ print(grades)
 
 grades["Tom"] = "F"
 print(f"{grades.keys()}")
-
-
 
 x=10
 if (x > 0):
